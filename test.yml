@@ -1,0 +1,30 @@
+name: Jayatirth
+age: 35
+address: "Test: adjah"
+active: true
+Key:
+    Key1: Value
+    key2: 22
+    key3:
+      key: Value
+      key1: 55
+jsonObj: {key: value, key2: 25, key3: {key: value, key2: value}}
+array:
+    - item1
+    - item2
+    - { key: value}
+jsonArray: [item1, item2]
+objectsArray:
+    - key: value
+      key2: Value2
+    - key: value
+longText: >
+    fhsdfjksf fhdjsfhsdjk
+     dsfhsdhfjksdfjs
+     fjsfjsfhjkfsjkfsdf sjkfhsdjkf fdjfsk     
+longText2: |
+    fhsdfjksf fhdjsfhsdjk
+     dsfhsdhfjksdfjs
+     fjsfjsfhjkfsjkfsdf sjkfhsdjkf fdjfsk          
+
+
